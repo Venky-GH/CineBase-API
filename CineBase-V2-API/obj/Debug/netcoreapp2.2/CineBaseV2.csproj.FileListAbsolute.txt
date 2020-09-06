@@ -1,0 +1,44 @@
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.dll
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\CineBaseV2.Model.dll
+C:\Users\deltax-user\source\repos\CineBaseV2\obj\Debug\netcoreapp2.2\CineBaseV2.csprojAssemblyReference.cache
+C:\Users\deltax-user\source\repos\CineBaseV2\obj\Debug\netcoreapp2.2\CineBaseV2.RazorAssemblyInfo.cache
+C:\Users\deltax-user\source\repos\CineBaseV2\obj\Debug\netcoreapp2.2\CineBaseV2.RazorAssemblyInfo.cs
+C:\Users\deltax-user\source\repos\CineBaseV2\obj\Debug\netcoreapp2.2\CineBaseV2.AssemblyInfoInputs.cache
+C:\Users\deltax-user\source\repos\CineBaseV2\obj\Debug\netcoreapp2.2\CineBaseV2.AssemblyInfo.cs
+C:\Users\deltax-user\source\repos\CineBaseV2\obj\Debug\netcoreapp2.2\CineBaseV2.RazorTargetAssemblyInfo.cache
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\CineBaseV2.deps.json
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\CineBaseV2.runtimeconfig.json
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\CineBaseV2.runtimeconfig.dev.json
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\CineBaseV2.dll
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\CineBaseV2.pdb
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.pdb
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\CineBaseV2.Model.pdb
+C:\Users\deltax-user\source\repos\CineBaseV2\obj\Debug\netcoreapp2.2\CineBaseV2.csproj.CopyComplete
+C:\Users\deltax-user\source\repos\CineBaseV2\obj\Debug\netcoreapp2.2\CineBaseV2.dll
+C:\Users\deltax-user\source\repos\CineBaseV2\obj\Debug\netcoreapp2.2\CineBaseV2.pdb
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\deltax-user\source\repos\CineBaseV2\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\CineBaseV2.deps.json
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\CineBaseV2.runtimeconfig.json
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\CineBaseV2.runtimeconfig.dev.json
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\CineBaseV2.dll
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\CineBaseV2.pdb
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.dll
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\CineBaseV2.Model.dll
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.pdb
+E:\Projects\ASP.NET Projects\CineBase-V2-API\bin\Debug\netcoreapp2.2\CineBaseV2.Model.pdb
+E:\Projects\ASP.NET Projects\CineBase-V2-API\obj\Debug\netcoreapp2.2\CineBaseV2.csprojAssemblyReference.cache
+E:\Projects\ASP.NET Projects\CineBase-V2-API\obj\Debug\netcoreapp2.2\CineBaseV2.AssemblyInfoInputs.cache
+E:\Projects\ASP.NET Projects\CineBase-V2-API\obj\Debug\netcoreapp2.2\CineBaseV2.AssemblyInfo.cs
+E:\Projects\ASP.NET Projects\CineBase-V2-API\obj\Debug\netcoreapp2.2\CineBaseV2.csproj.CoreCompileInputs.cache
+E:\Projects\ASP.NET Projects\CineBase-V2-API\obj\Debug\netcoreapp2.2\CineBaseV2.RazorAssemblyInfo.cache
+E:\Projects\ASP.NET Projects\CineBase-V2-API\obj\Debug\netcoreapp2.2\CineBaseV2.RazorAssemblyInfo.cs
+E:\Projects\ASP.NET Projects\CineBase-V2-API\obj\Debug\netcoreapp2.2\CineBaseV2.RazorTargetAssemblyInfo.cache
+E:\Projects\ASP.NET Projects\CineBase-V2-API\obj\Debug\netcoreapp2.2\CineBaseV2.csproj.CopyComplete
+E:\Projects\ASP.NET Projects\CineBase-V2-API\obj\Debug\netcoreapp2.2\CineBaseV2.dll
+E:\Projects\ASP.NET Projects\CineBase-V2-API\obj\Debug\netcoreapp2.2\CineBaseV2.pdb
+E:\Projects\ASP.NET Projects\CineBase-V2-API\obj\Debug\netcoreapp2.2\CineBaseV2.genruntimeconfig.cache

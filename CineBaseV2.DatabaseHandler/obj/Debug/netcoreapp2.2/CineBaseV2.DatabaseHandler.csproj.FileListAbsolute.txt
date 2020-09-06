@@ -1,0 +1,12 @@
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\bin\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.deps.json
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\bin\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.dll
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\bin\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.pdb
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\bin\Debug\netcoreapp2.2\CineBaseV2.Model.dll
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\bin\Debug\netcoreapp2.2\CineBaseV2.Model.pdb
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\obj\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.csprojAssemblyReference.cache
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\obj\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.AssemblyInfoInputs.cache
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\obj\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.AssemblyInfo.cs
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\obj\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.csproj.CoreCompileInputs.cache
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\obj\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.csproj.CopyComplete
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\obj\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.dll
+E:\Projects\ASP.NET Projects\CineBaseV2.DatabaseHandler\obj\Debug\netcoreapp2.2\CineBaseV2.DatabaseHandler.pdb
