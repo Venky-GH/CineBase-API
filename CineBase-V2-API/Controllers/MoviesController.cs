@@ -32,6 +32,7 @@
                 var currentMovie = groups[0];
                 var movieDetails = new MovieDetails
                 {
+                    Id = currentMovie.Id,
                     Name = currentMovie.MovieName,
                     Plot = currentMovie.Plot,
                     Image = currentMovie.Image,
