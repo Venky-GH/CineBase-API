@@ -1,8 +1,0 @@
-E:\Projects\ASP.NET Projects\CineBaseV2.Model\bin\Debug\netcoreapp2.2\CineBaseV2.Model.deps.json
-E:\Projects\ASP.NET Projects\CineBaseV2.Model\bin\Debug\netcoreapp2.2\CineBaseV2.Model.dll
-E:\Projects\ASP.NET Projects\CineBaseV2.Model\bin\Debug\netcoreapp2.2\CineBaseV2.Model.pdb
-E:\Projects\ASP.NET Projects\CineBaseV2.Model\obj\Debug\netcoreapp2.2\CineBaseV2.Model.AssemblyInfoInputs.cache
-E:\Projects\ASP.NET Projects\CineBaseV2.Model\obj\Debug\netcoreapp2.2\CineBaseV2.Model.AssemblyInfo.cs
-E:\Projects\ASP.NET Projects\CineBaseV2.Model\obj\Debug\netcoreapp2.2\CineBaseV2.Model.csproj.CoreCompileInputs.cache
-E:\Projects\ASP.NET Projects\CineBaseV2.Model\obj\Debug\netcoreapp2.2\CineBaseV2.Model.dll
-E:\Projects\ASP.NET Projects\CineBaseV2.Model\obj\Debug\netcoreapp2.2\CineBaseV2.Model.pdb
